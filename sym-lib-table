@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name TXU0204BQAR)(type Legacy)(uri ${KIPRJMOD}/kicad-library/TXU0204BQAR/TXU0204BQAR.lib)(options "")(descr ""))
+  (lib (name CL-SB-22A-02T)(type Legacy)(uri ${KIPRJMOD}/kicad-library/CL-SB-22A-02T/CL-SB-22A-02T.lib)(options "")(descr ""))
+  (lib (name 0ZCJ0050AF2E)(type Legacy)(uri ${KIPRJMOD}/kicad-library/0ZCJ0050AF2E/0ZCJ0050AF2E.lib)(options "")(descr ""))
+)

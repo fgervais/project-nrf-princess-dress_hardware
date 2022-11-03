@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name TXU0204BQAR)(type KiCad)(uri ${KIPRJMOD}/kicad-library/TXU0204BQAR)(options "")(descr ""))
+  (lib (name CL-SB-22A-02T)(type KiCad)(uri ${KIPRJMOD}/kicad-library/CL-SB-22A-02T)(options "")(descr ""))
+  (lib (name TZ022101B000G)(type KiCad)(uri ${KIPRJMOD}/kicad-library/TZ022101B000G/TZ022101B000G.pretty)(options "")(descr ""))
+  (lib (name TZ042101B000G)(type KiCad)(uri ${KIPRJMOD}/kicad-library/TZ042101B000G/TZ042101B000G.pretty)(options "")(descr ""))
+  (lib (name 0ZCJ0050AF2E)(type KiCad)(uri ${KIPRJMOD}/kicad-library/0ZCJ0050AF2E)(options "")(descr ""))
+)
