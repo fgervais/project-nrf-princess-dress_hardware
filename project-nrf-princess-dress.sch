@@ -1128,4 +1128,102 @@ Wire Wire Line
 	9550 5250 9650 5250
 Wire Wire Line
 	9650 5250 9650 5350
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 638FF080
+P 900 6400
+F 0 "H1" H 1000 6403 50  0000 L CNN
+F 1 "MountingHole_Pad" H 1000 6358 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad" H 900 6400 50  0001 C CNN
+F 3 "~" H 900 6400 50  0001 C CNN
+	1    900  6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 63900116
+P 900 6600
+F 0 "#PWR01" H 900 6350 50  0001 C CNN
+F 1 "GND" H 905 6427 50  0000 C CNN
+F 2 "" H 900 6600 50  0001 C CNN
+F 3 "" H 900 6600 50  0001 C CNN
+	1    900  6600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  6500 900  6600
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 6390AB68
+P 1200 6400
+F 0 "H2" H 1300 6403 50  0000 L CNN
+F 1 "MountingHole_Pad" H 1300 6358 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad" H 1200 6400 50  0001 C CNN
+F 3 "~" H 1200 6400 50  0001 C CNN
+	1    1200 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 6390AB6E
+P 1200 6600
+F 0 "#PWR02" H 1200 6350 50  0001 C CNN
+F 1 "GND" H 1205 6427 50  0000 C CNN
+F 2 "" H 1200 6600 50  0001 C CNN
+F 3 "" H 1200 6600 50  0001 C CNN
+	1    1200 6600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 6500 1200 6600
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 6390EF9F
+P 1500 6400
+F 0 "H3" H 1600 6403 50  0000 L CNN
+F 1 "MountingHole_Pad" H 1600 6358 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad" H 1500 6400 50  0001 C CNN
+F 3 "~" H 1500 6400 50  0001 C CNN
+	1    1500 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 6390EFA5
+P 1500 6600
+F 0 "#PWR03" H 1500 6350 50  0001 C CNN
+F 1 "GND" H 1505 6427 50  0000 C CNN
+F 2 "" H 1500 6600 50  0001 C CNN
+F 3 "" H 1500 6600 50  0001 C CNN
+	1    1500 6600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 6500 1500 6600
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 63913532
+P 1800 6400
+F 0 "H4" H 1900 6403 50  0000 L CNN
+F 1 "MountingHole_Pad" H 1900 6358 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad" H 1800 6400 50  0001 C CNN
+F 3 "~" H 1800 6400 50  0001 C CNN
+	1    1800 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 63913538
+P 1800 6600
+F 0 "#PWR04" H 1800 6350 50  0001 C CNN
+F 1 "GND" H 1805 6427 50  0000 C CNN
+F 2 "" H 1800 6600 50  0001 C CNN
+F 3 "" H 1800 6600 50  0001 C CNN
+	1    1800 6600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 6500 1800 6600
+Text Notes 2600 2000 0    50   ~ 0
+ON
 $EndSCHEMATC
