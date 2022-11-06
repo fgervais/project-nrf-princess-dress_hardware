@@ -957,11 +957,11 @@ Text Label 9500 750  0    50   ~ 0
 SDA
 Text Label 9500 850  0    50   ~ 0
 SCL
-Text Label 9000 750  0    50   ~ 0
+Text Label 9000 950  0    50   ~ 0
 P0.09
 Text Label 9000 850  0    50   ~ 0
 P0.10
-Text Label 9000 950  0    50   ~ 0
+Text Label 9000 750  0    50   ~ 0
 P0.22
 $Comp
 L Connector:Conn_01x01_Female J6
@@ -1245,10 +1245,10 @@ F 3 "" H 2600 5000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VDD #PWR?
+L power:VDD #PWR0141
 U 1 1 63A0DCF7
 P 9600 1600
-F 0 "#PWR?" H 9600 1450 50  0001 C CNN
+F 0 "#PWR0141" H 9600 1450 50  0001 C CNN
 F 1 "VDD" H 9615 1773 50  0000 C CNN
 F 2 "" H 9600 1600 50  0001 C CNN
 F 3 "" H 9600 1600 50  0001 C CNN
