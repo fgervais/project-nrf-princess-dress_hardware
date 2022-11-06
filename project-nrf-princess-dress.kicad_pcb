@@ -315,7 +315,7 @@
   )
 
   (module TXU0204BQAR:TXU0204BQAR (layer F.Cu) (tedit 63626F5C) (tstamp 63697D9A)
-    (at 83.12 68.79)
+    (at 83.12 67.79)
     (path /63631827)
     (fp_text reference U3 (at 0.765 -3.75) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -378,7 +378,7 @@
   )
 
   (module TXU0204BQAR:TXU0204BQAR (layer F.Cu) (tedit 63626F5C) (tstamp 63697CB3)
-    (at 83.12 50.79)
+    (at 83.12 49.79)
     (path /637A4850)
     (fp_text reference U2 (at 0.765 -3.75) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -441,7 +441,7 @@
   )
 
   (module TXU0204BQAR:TXU0204BQAR (layer F.Cu) (tedit 63626F5C) (tstamp 63697E09)
-    (at 83.12 32.79)
+    (at 83.12 31.79)
     (path /637A9D95)
     (fp_text reference U1 (at 0.765 -3.75) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1020,7 +1020,7 @@
   )
 
   (module Capacitor_SMD:C_1210_3225Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 63697B99)
-    (at 81.12 73.79 180)
+    (at 81.12 72.79 180)
     (descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /636572FE)
@@ -1056,7 +1056,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 63697D40)
-    (at 85.12 65.79)
+    (at 85.12 64.79)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /6365B49F)
@@ -1092,7 +1092,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 63697BF9)
-    (at 81.12 65.79 180)
+    (at 81.12 64.79 180)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /63659F15)
@@ -1128,7 +1128,7 @@
   )
 
   (module Capacitor_SMD:C_1210_3225Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 63697D0D)
-    (at 81.12 55.79 180)
+    (at 81.12 54.79 180)
     (descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /637A485C)
@@ -1164,7 +1164,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 63697C29)
-    (at 85.12 47.79)
+    (at 85.12 46.79)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /637A4868)
@@ -1200,7 +1200,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 63697BC9)
-    (at 81.12 47.79)
+    (at 81.12 46.79)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /637A4862)
@@ -1236,7 +1236,7 @@
   )
 
   (module Capacitor_SMD:C_1210_3225Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 63697C59)
-    (at 81.12 37.79 180)
+    (at 81.12 36.79 180)
     (descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /637A9DA1)
@@ -1272,7 +1272,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 63697B66)
-    (at 85.12 29.79)
+    (at 85.12 28.79)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /637A9DAD)
@@ -1308,7 +1308,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 63697B36)
-    (at 81.12 29.79 180)
+    (at 81.12 28.79 180)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /637A9DA7)
