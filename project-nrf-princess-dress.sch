@@ -960,9 +960,9 @@ SCL
 Text Label 9000 950  0    50   ~ 0
 P0.09
 Text Label 9000 850  0    50   ~ 0
-P0.10
-Text Label 9000 750  0    50   ~ 0
 P0.22
+Text Label 9000 750  0    50   ~ 0
+P0.23
 $Comp
 L Connector:Conn_01x01_Female J6
 U 1 1 638A991A
@@ -982,7 +982,6 @@ Wire Wire Line
 	9000 750  9800 750 
 NoConn ~ 6000 1250
 NoConn ~ 6000 1450
-NoConn ~ 6000 1550
 NoConn ~ 6000 1650
 NoConn ~ 6000 1750
 NoConn ~ 6000 1850
@@ -1259,4 +1258,19 @@ Wire Wire Line
 	9600 1700 9600 1600
 Wire Wire Line
 	10050 1700 9600 1700
+Text Label 9000 1050 0    50   ~ 0
+P0.10
+$Comp
+L Connector:Conn_01x01_Female J9
+U 1 1 6393BC48
+P 9700 1050
+F 0 "J9" H 9728 1030 50  0000 L CNN
+F 1 "Conn_01x01_Female" H 9728 985 50  0001 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 9700 1050 50  0001 C CNN
+F 3 "~" H 9700 1050 50  0001 C CNN
+	1    9700 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 1050 9500 1050
 $EndSCHEMATC
