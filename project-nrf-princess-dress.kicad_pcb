@@ -1429,7 +1429,7 @@
   (gr_line (start 99.12 89.79) (end 49.12 89.79) (layer "Edge.Cuts") (width 0.05) (tstamp b170c148-5bbc-4edb-9944-152cc56d0495))
   (gr_arc (start 99.12 24.79) (mid 101.948427 25.961573) (end 103.12 28.79) (layer "Edge.Cuts") (width 0.05) (tstamp ba0cefcc-c05f-4700-bc30-61014b554af0))
   (gr_arc (start 49.12 89.79) (mid 46.291573 88.618427) (end 45.12 85.79) (layer "Edge.Cuts") (width 0.05) (tstamp dc0e7387-33eb-4f94-93d0-06f0bfd168e1))
-  (gr_text "Julie Gervais\nFrançois Gervais\n5 dec 2022\nv" (at 61.12 79.29) (layer "B.SilkS") (tstamp 5405b41d-199e-4f2e-a19d-c56c4e8bd57b)
+  (gr_text "Julie Gervais\nFrançois Gervais\n1 jan 2023\nv1.0.0" (at 61.12 79.29) (layer "B.SilkS") (tstamp 5405b41d-199e-4f2e-a19d-c56c4e8bd57b)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
   (gr_text "StemmaQT" (at 67.12 31.79) (layer "F.SilkS") (tstamp 2835a71d-2281-4875-89b7-32206f3b3685)
